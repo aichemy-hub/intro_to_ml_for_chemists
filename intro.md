@@ -1,11 +1,5 @@
 # Introduction to Machine Learning for Chemists
 
-## Course dates
-
-The next course will run on **18th May 2026** between 10:00 and 16:30 and will be held in the **Molecular Sciences Research Hub** on White City Campus.
-If you would like to attend, please complete [this registration form](https://forms.office.com/e/gWnFVY19Un).
-Spaces are limited and allocated on a first-come, first-served basis.
-
 ## What is this course about?
 
 The course will introduce how modern machine learning approaches can be applied to chemical datasets.
@@ -30,6 +24,12 @@ If you need to learn Python or need a refresher, we recommend the following cour
 
 - [Imperial’s Introduction to Python for Researchers](https://www.imperial.ac.uk/early-career-researcher-institute/learning-and-development/courses-by-programme/research-computing-and-data-science/python-for-researchers/) course accessed via ECRI – an online course hosted on Coursera (free for Imperial researchers) covering the fundamentals of Python, focusing on skills and applications relevant to researchers. (approx. 10 hours).
 - [Datacamp Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science) – a free online course for beginners, including those who have no coding experience at all. (approx. 4 hours).
+
+## Course dates
+
+The next course will run on **18th May 2026** between 10:00 and 16:30 and will be held in the **Molecular Sciences Research Hub** on White City Campus.
+If you would like to attend, please complete [this registration form](https://forms.office.com/e/gWnFVY19Un).
+Spaces are limited and allocated on a first-come, first-served basis.
 
 ```{tableofcontents}
 ```

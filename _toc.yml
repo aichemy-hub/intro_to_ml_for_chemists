@@ -4,7 +4,7 @@
 format: jb-book
 root: intro.md
 parts:
-- caption: Workshops
+- caption: Modules
   numbered: false
   chapters:
   - file: workshop-0

@@ -22,6 +22,8 @@ bibtex_bibfiles:
 
 launch_buttons:
   colab_url: "https://colab.research.google.com"
+  binderhub_url: "https://mybinder.org"
+  thebe: true
 
 # Information about where the book exists on the web
 repository:

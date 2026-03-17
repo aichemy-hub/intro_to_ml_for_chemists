@@ -5,7 +5,7 @@ This repository contains the workshops for AIchemy's Introduction to Machine Lea
 ## What is this course about?
 
 The course will introduce how modern machine learning approaches can be applied to chemical datasets.
-It is aimed at experimental and computatinal chemists who want to learn how to apply machine learning to their data,
+It is aimed at experimental and computational chemists who want to learn how to apply machine learning to their data,
 and is designed to be accessible to those with little or no prior experience in machine learning.
 
 ## Learning outcomes

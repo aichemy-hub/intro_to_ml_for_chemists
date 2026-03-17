@@ -5,7 +5,4 @@ matplotlib
 numpy
 scikit-learn
 pandas
-matminer
 rdkit
-torch
-torchvision

@@ -42,3 +42,7 @@ Then build the book with:
 ```bash
 jupyter-book build .
 ```
+
+## Acknowledgements
+
+This course adapted from Alex Ganose's [Data Analytics in Chemistry](https://utf.github.io/DataAnalyticsChemistry) Masters course.

@@ -1,5 +1,11 @@
 # Introduction to Machine Learning for Chemists
 
+## Course dates
+
+The next course will run on **18th May 2026** between 10:00 and 16:30 and will be held in the **Molecular Sciences Research Hub** on White City Campus.
+If you would like to attend, please complete [this registration form](https://forms.office.com/e/gWnFVY19Un).
+Spaces are limited and allocated on a first-come, first-served basis.
+
 ## What is this course about?
 
 The course will introduce how modern machine learning approaches can be applied to chemical datasets.

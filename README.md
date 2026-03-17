@@ -15,7 +15,7 @@ and is designed to be accessible to those with little or no prior experience in 
 - Understand the challenges of working with realistic data.
 - Extract relationships between chemical features and properties.
 
-We welcome feedback and suggestions in the form of a pull request or issue on [GitHub](https://github.com/aichemy-hub/intro_to_ml_for_chemists).
+We welcome feedback and suggestions in the form of a pull request or issue on [GitHub](https://github.com/aichemy-hub/intro_to_ml_for_chemists/issues).
 
 ## Prerequisites
 

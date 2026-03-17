@@ -1,29 +1,29 @@
-# Data Analytics in Chemistry
+# Introduction to Machine Learning for Chemists
 
-_Data Analytics in Chemistry_ (CHEM70012) gives an introduction to statistical learning, data analysis,
-visualisation, and research communication for chemistry. It is designed for Masters level
-undergraduate students in the Department of Chemistry at Imperial College London.
+## What is this course about?
 
-The course will introduce how modern machine learning approaches can be applied to chemical
-datasets. The generation of chemical features is not discussed in detail. Instead the
-focus is on the application of statistical models to extract relationships from data and
-build models that can be used for chemical discoveries.
+The course will introduce how modern machine learning approaches can be applied to chemical datasets.
+It is aimed at experimental and computatinal chemists who want to learn how to apply machine learning to their data,
+and is designed to be accessible to those with little or no prior experience in machine learning.
 
-This website is intended as a compliment to the course lectures. It hosts the notebooks
-that will be used in the workshop sessions. Familiary with python is assumed.
-For a refresher, see the introductory chapters of [Scientific Computing for Chemists with Python](https://weisscharlesj.github.io/SciCompforChemists/notebooks/chapter_00/chap_00_notebook.html)
+## Learning outcomes
 
-We welcome feedback and suggestions in the form of a pull request or issue on [GitHub](https://github.com/utf/DataAnalyticsChemistry/issues).
+At the end of the course, you should be able to:
 
-## Learning Outcomes
+- Describe and contrast methods for learning from data.
+- Apply machine learning models for chemical problems.
+- Understand the challenges of working with realistic data.
+- Extract relationships between chemical features and properties.
 
-At the end of this course, you will be able to:
+We welcome feedback and suggestions in the form of a pull request or issue on [GitHub](https://github.com/aichemy-hub/intro_to_ml_for_chemists/issues).
 
-- Describe and contrast methods for learning from data
-- Extract relationships between chemical features and properties
-- Apply machine learning models for chemical problems
-- Understand the challenges of working with realistic data
-- Explain the process of communicating and justifying data analysis
+## Prerequisites
+
+Familiary with python is assumed.
+If you need to learn Python or need a refresher, we recommend the following courses:
+
+- [Imperial’s Introduction to Python for Researchers](https://www.imperial.ac.uk/early-career-researcher-institute/learning-and-development/courses-by-programme/research-computing-and-data-science/python-for-researchers/) course accessed via ECRI – an online course hosted on Coursera (free for Imperial researchers) covering the fundamentals of Python, focusing on skills and applications relevant to researchers. (approx. 10 hours).
+- [Datacamp Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science) – a free online course for beginners, including those who have no coding experience at all. (approx. 4 hours).
 
 ```{tableofcontents}
 ```

@@ -10,6 +10,8 @@ and is designed to be accessible to those with little or no prior experience in 
 
 ## Learning outcomes
 
+At the end of the course, you should be able to:
+
 - Describe and contrast methods for learning from data.
 - Apply machine learning models for chemical problems.
 - Understand the challenges of working with realistic data.
